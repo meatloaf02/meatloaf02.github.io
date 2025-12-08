@@ -3,6 +3,11 @@ title: 'Home'
 date: 2023-10-24
 type: landing
 
+# Social sharing image
+image:
+  filename: media/thumbnail.png
+  caption: ''
+
 design:
   # Default section spacing
   spacing: '4rem'
