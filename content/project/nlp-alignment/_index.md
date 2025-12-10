@@ -1,12 +1,14 @@
 ---
 title: NLP Alignment Research
-date: 2024-01-01
+date: 2025-12-01
 summary: Research on aligning large language models with human values and preferences
 tags:
-  - NLP
-  - AI
-  - Machine Learning
-  - Alignment
+  - Job-curriculum alignment
+  - Semantic similarity
+  - Information Retrieval
+  - TF-IDF Feature Fusion
+  - Doc2Vec Embeddings
+  - Vocational Education
 image:
   caption: ''
   focal_point: ''
