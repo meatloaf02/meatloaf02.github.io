@@ -7,9 +7,24 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Blog
-    url: blog/
+  - name: About
+    url: /about/
     weight: 20
-  - name: Uses
-    url: uses/
+  - name: Experience
+    url: /experience/
     weight: 30
+  - name: Education
+    url: /education/
+    weight: 40
+  - name: Consulting
+    url: /consulting/
+    weight: 50
+  - name: Projects
+    url: /project/
+    weight: 60
+  - name: Research
+    url: /research/
+    weight: 70
+  - name: Contact
+    url: /contact/
+    weight: 80

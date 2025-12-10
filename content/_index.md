@@ -1,53 +1,37 @@
 ---
-title: 'Home'
-date: 2023-10-24
+title: "Marco Siliezar"
 type: landing
 
-# Social sharing image
-image:
-  filename: media/thumbnail.png
-  caption: ''
-
-design:
-  # Default section spacing
-  spacing: '4rem'
-
-# Note: `username` refers to the user's folder name in `content/authors/`
-
-# Page sections
 sections:
-  - block: biography
+  - block: hero
     content:
-      username: admin
-    design:
-      banner:
-        # Upload your cover image to the `assets/media/` folder and reference it here
-        filename: kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
-      biography:
-        # Customize the style of your biography text
-        style: 'text-align: justify; font-size: 0.8em;'
-      # Avatar customization
-      avatar:
-        size: large # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: rounded # Options: circle (default), square, rounded
-  - block: experience
+      headline: "Product Leader · EdTech Consultant · Applied AI Researcher"
+      image:
+        placement: right
+      text: |
+        I build modern student systems, advise institutions on Title IV & SIS modernization,
+        and conduct applied NLP research in higher education alignment.
+      actions:
+        - label: "View CV"
+          url: "/about/"
+          icon: cv
+        - label: "Contact"
+          url: "/contact/"
+
+  - block: features
     content:
-      username: admin
-    design:
-      # Hugo date format
-      date_format: 'January 2006'
-      # Education or Experience section first?
-      is_education_first: false
-  - block: skills
-    content:
-      title: Skills & Hobbies
-      username: admin
-  - block: awards
-    content:
-      title: Awards
-      username: admin
-  - block: languages
-    content:
-      title: Languages
-      username: admin
+      title: "What I Do"
+      items:
+        - icon: 🎓
+          title: Academic Research
+          description: NLP alignment, retrieval evaluation, and applied ML.
+          url: "/research/"
+        - icon: briefcase
+          title: Consulting
+          description: Readiness assessments, Title IV compliance strategy, SIS modernization.
+          url: "/consulting/"
+        - icon: 💻
+          title: Technical Projects
+          description: NLP pipelines, iOS apps, data engineering experiments.
+          url: "/project/"
 ---
