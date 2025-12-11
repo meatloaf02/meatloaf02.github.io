@@ -13,8 +13,6 @@ tags:
   - Strategy
 ---
 
-## Independent Consulting
-
 ### Overview
 
 Providing strategic product management and higher education consulting services to institutions and organizations seeking to optimize their technology investments and operational processes.
