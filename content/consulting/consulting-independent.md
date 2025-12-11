@@ -8,7 +8,7 @@ tags:
   - Product Management
 ---
 
-## Independent Consulting Services
+## Services
 
 ### Service Offerings
 
