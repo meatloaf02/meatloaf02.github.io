@@ -2,7 +2,7 @@
 title: Workday
 date: 2016-04-01
 company: Workday
-location: ''
+location: Pleasanton, CA
 date_start: 2016-04-01
 date_end: 2025-05-01
 summary: 9 years of product management experience across multiple roles, driving high-impact SaaS solutions for higher education
@@ -11,6 +11,10 @@ tags:
   - SaaS
   - Higher Education
   - Agile
+image:
+  filename: "product-management.png"
+  focal_point: "center"
+  preview_only: "false"
 ---
 
 ## Workday Experience
