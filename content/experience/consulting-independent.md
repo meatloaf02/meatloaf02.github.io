@@ -1,11 +1,15 @@
 ---
 title: Independent Consulting
-date: 2025-08-01
+date: 2025-03-01
 company: Independent
 location: ''
-date_start: 2025-08-01
+date_start: 2025-03-01
 date_end: ''
 summary: Strategic product management and higher education consulting
+image:
+  filename: "consulting-independent.png"
+  focal_point: "center"
+  preview_only: false
 tags:
   - Consulting
   - Product Management
