@@ -6,15 +6,15 @@ location: ''
 date_start: 2025-03-01
 date_end: ''
 summary: Strategic product management and higher education consulting
-image:
-  filename: "consulting-independent.png"
-  focal_point: "center"
-  preview_only: false
 tags:
   - Consulting
   - Product Management
   - Higher Education
   - Strategy
+image:
+  filename: "consulting-independent.png"
+  focal_point: "center"
+  preview_only: false
 ---
 
 ### Overview
