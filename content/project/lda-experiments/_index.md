@@ -13,8 +13,6 @@ image:
   focal_point: ''
 ---
 
-# LDA Topic Modeling Experiments
-
 ## Overview
 As part of a broader research initiative to understand the alignment between vocational programs and regional labor-market demand, I conducted a series of Topic Modeling experiments using Latent Dirichlet Allocation (LDA). The goal was to uncover underlying thematic structures in job postings and educational program descriptions, enabling more interpretable insights about how curriculum content maps to industry needs. These experiments served as a complementary lens to embedding-based similarity methods, highlighting domain-specific themes that often shape alignment outcomes.
 
