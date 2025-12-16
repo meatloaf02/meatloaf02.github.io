@@ -11,7 +11,7 @@ tags:
   - Analytics
   - Statistics
 image:
-  filename: "The_University_of_California_1868_UCSC.svg"
+  filename: "The_University_of_California_1868_UCSC.png"
   focal_point: "center"
   preview_only: false
 ---
