@@ -11,7 +11,7 @@ tags:
   - Analytics
   - Statistics
 image:
-  filename: "The_University_of_California_1868_UCSC.png"
+  filename: "UC Santa Cruz Logo - University Blue.png"
   focal_point: "center"
   preview_only: false
 ---
