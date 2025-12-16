@@ -10,6 +10,10 @@ tags:
   - Economics
   - Analytics
   - Statistics
+image:
+  filename: "The_University_of_California_1868_UCSC.svg"
+  focal_point: "center"
+  preview_only: false
 ---
 
 ## University of California, Santa Cruz
