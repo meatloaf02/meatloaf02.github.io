@@ -12,7 +12,6 @@ tags:
   - Statistics
 image:
   filename: "UC Santa Cruz Logo - University Blue.png"
-  focal_point: "center"
   preview_only: false
 ---
 
