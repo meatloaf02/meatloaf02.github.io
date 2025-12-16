@@ -9,6 +9,10 @@ tags:
   - AI
   - Machine Learning
   - NLP
+image:
+  filename: "northwestern.png"
+  focal_point: "center"
+  preview_only: false
 ---
 
 ## Northwestern University
