@@ -7,8 +7,9 @@ tags:
   - Multi-Modal Learning
   - Deep Learning
 image:
-  caption: ''
-  focal_point: ''
+  filename: "feature_fusion.png"
+  focal_point: Smart
+  preview_only: false
 ---
 ## Overview
 Feature Fusion for Multi-Modal Learning explores how heterogeneous textual representations—ranging from word-level n-grams to character-level features and semantic phrase embeddings—can be combined to improve similarity search, classification, and clustering performance in labor-market alignment tasks. The work investigates how distinct feature classes encode complementary signals, and how their integration boosts retrieval accuracy for aligning vocational programs with job postings.
