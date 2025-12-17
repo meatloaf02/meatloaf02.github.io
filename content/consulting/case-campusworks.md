@@ -7,6 +7,10 @@ tags:
   - Consulting
   - Product Strategy
   - Workday Student
+image:
+  filename: "CampusWorks Logo_full color.png"
+  focal_point: Smart
+  preview_only: false
 ---
 
 ## CampusWorks Engagement
