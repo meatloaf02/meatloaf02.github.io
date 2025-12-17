@@ -6,6 +6,10 @@ tags:
   - Higher Education
   - Consulting
   - Product Management
+image:
+    filename: independent-consulting.png
+    focal_point: Smart
+    preview_only: false
 ---
 
 ## Services
