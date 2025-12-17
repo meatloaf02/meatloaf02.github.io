@@ -8,9 +8,9 @@ tags:
   - Research
   - LDA
   - Machine Learning
-image:
-  caption: ''
-  focal_point: ''
+filename: lda_topic_modeling.png
+       focal_point: Smart
+       preview_only: false
 ---
 
 ## Overview
