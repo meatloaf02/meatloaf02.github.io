@@ -7,7 +7,7 @@ tags:
   - Multi-Modal Learning
   - Deep Learning
 image:
-  filename: "feature_fusion.png"
+  filename: feature_fusion.png
   focal_point: Smart
   preview_only: false
 ---
