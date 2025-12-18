@@ -1,7 +1,7 @@
 ---
 title: "A Semantic Comparison of Job Postings and Vocational Program Descriptions"
 subtitle: "Analysis of employer demand and educational offerings from career-oriented institutions"
-summary: "A TF-IDF-based feature fusion pipeline to measure alignment between California vocational program descriptions and online job postings, highlighting domain-level and subdomain-level curriculum–labor market fit."
+summary: "A TF-IDF-based feature fusion pipeline,highlighting domain-level and subdomain-level curriculum–labor market fit."
 authors:
   - "Marco Siliezar"
 tags:
@@ -21,9 +21,9 @@ lastmod: 2025-11-23
 featured: true
 draft: false
 image:
-  caption: "Stacked feature fusion architecture for program–job retrieval."
-  focal_point: "Center"
-  filename: "figure-3-feature-fusion-architecture.png"
+  filename: semantic_comparison.png
+  focal_point: Smart
+  preview_only: False
 ---
 # A Semantic Comparison of Job Postings and Vocational Program Descriptions
 
