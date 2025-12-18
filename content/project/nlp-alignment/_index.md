@@ -10,8 +10,9 @@ tags:
   - Doc2Vec Embeddings
   - Vocational Education
 image:
-  caption: ''
-  focal_point: ''
+  filename: nlp_alignment_research.png
+  focal_point: Smart
+  preview_only: False
 ---
 
 ## NLP Alignment Project
