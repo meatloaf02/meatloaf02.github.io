@@ -9,9 +9,9 @@ tags:
   - LDA
   - Machine Learning
 image:
-    filename: "lda_topic_modeling.png"
-       focal_point: Smart
-       preview_only: false
+    filename: lda_topic_modeling.png
+    focal_point: Smart
+    preview_only: false
 ---
 
 ## Overview
