@@ -2,7 +2,7 @@
 title: "Modeling the Evolution of AI Language"
 subtitle: "A Single-Firm Case Study"
 author: "Marco Siliezar"
-date: 2026-01-01
+date: 2026-03-01
 draft: false
 description: "A longitudinal single-firm case study of Workday’s AI-related language, knowledge graph construction, and the Artificial Intelligence Intensity Index (AII)."
 tags:
