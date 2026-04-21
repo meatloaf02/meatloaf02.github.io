@@ -1,9 +1,14 @@
 ---
 title: "A Semantic Comparison of Job Postings and Vocational Program Descriptions"
-subtitle: "Analysis of employer demand and educational offerings from career-oriented institutions"
+
 author: "Marco Siliezar"
+
 date: 2025-12-01
+
 draft: false
+
+description: "Analysis of employer demand and educational offerings from career-oriented institutions"
+
 ---
 
 *Marco Siliezar*  
