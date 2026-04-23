@@ -1,1 +1,1 @@
-{{< notebook src="financial_aid_bandit.ipynb" >}}
+< notebook src="financial_aid_bandit.ipynb" >
