@@ -30,4 +30,4 @@ main:
     weight: 80
   - name: Blog
     url: /blog/
-    weight: 80
+    weight: 90
